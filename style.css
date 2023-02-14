@@ -1111,7 +1111,7 @@ width: 100%;
  }
 
  #footer {
-   background: #000;
+   background: #0A2647;
    padding: 0 0 30px 0;
    color: #eee;
    font-size: 14px;
@@ -1122,7 +1122,7 @@ width: 100%;
  }
 
  #footer .footer-top {
-   background: #111;
+   background: #0A2647;
    padding: 60px 0 30px 0;
  }
 
@@ -1212,7 +1212,7 @@ width: 100%;
  }
 
  #footer .footer-top .footer-links ul li {
-   border-bottom: 1px solid #333;
+   border-bottom: 1px solid #555;
    padding: 10px 0;
  }
 
